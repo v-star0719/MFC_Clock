@@ -1,6 +1,8 @@
 # MFC_Clock
-    a simple clock that draw by GDI.
-    I get the system time and show it every milliseconds instead of counting time.
-    It's just for fun.
+A simple clock that draw by GDI.  
+It get the system time and show it every milliseconds instead of counting time.  
+It's just for fun.
 
-![baidu](http://www.baidu.com/img/bdlogo.gif) 
+![screenshot](https://github.com/qiminixi/MFC_Clock/blob/master/release/screenshot.png) 
+
+If you want to run the application on your computer, please download all the file in `release folder` except screenshot.png.
